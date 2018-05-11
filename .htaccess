@@ -1,0 +1,4 @@
+AuthType Basic  
+AuthName "restricted area"  
+AuthUserFile /Users/halogendigital/Desktop/spring-sc/index.html.htpasswd  
+require valid-user
